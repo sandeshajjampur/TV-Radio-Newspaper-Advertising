@@ -1,2 +1,2 @@
 # TV-Radio-Newspaper-Advertising
-In this dataset, I try to predict the sales of advertisements through TV, radio, newspaper
+In this dataset, I am going to predict the overall sales after spending on advertisements through TV, radio, newspaper
